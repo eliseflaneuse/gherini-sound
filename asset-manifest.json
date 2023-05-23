@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/gherini-sound/static/css/main.10c9bb4c.css",
-    "main.js": "/gherini-sound/static/js/main.e57dac00.js",
+    "main.css": "/gherini-sound/static/css/main.2ddb3177.css",
+    "main.js": "/gherini-sound/static/js/main.41ab8958.js",
     "static/js/787.75653d37.chunk.js": "/gherini-sound/static/js/787.75653d37.chunk.js",
     "static/media/helvetica-neu.ttf": "/gherini-sound/static/media/helvetica-neu.8a19678078a6b21c8057.ttf",
     "static/media/LaBelleAurore.woff2": "/gherini-sound/static/media/LaBelleAurore.a83c1c58fd7e43972e4a.woff2",
     "static/media/CoolveticaRg-Regular.woff2": "/gherini-sound/static/media/CoolveticaRg-Regular.7d1f3b1dd46ad6557a17.woff2",
     "index.html": "/gherini-sound/index.html",
-    "main.10c9bb4c.css.map": "/gherini-sound/static/css/main.10c9bb4c.css.map",
-    "main.e57dac00.js.map": "/gherini-sound/static/js/main.e57dac00.js.map",
+    "main.2ddb3177.css.map": "/gherini-sound/static/css/main.2ddb3177.css.map",
+    "main.41ab8958.js.map": "/gherini-sound/static/js/main.41ab8958.js.map",
     "787.75653d37.chunk.js.map": "/gherini-sound/static/js/787.75653d37.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.10c9bb4c.css",
-    "static/js/main.e57dac00.js"
+    "static/css/main.2ddb3177.css",
+    "static/js/main.41ab8958.js"
   ]
 }
