@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/gherini-sound/static/css/main.2ddb3177.css",
-    "main.js": "/gherini-sound/static/js/main.41ab8958.js",
-    "static/js/787.75653d37.chunk.js": "/gherini-sound/static/js/787.75653d37.chunk.js",
-    "static/media/helvetica-neu.ttf": "/gherini-sound/static/media/helvetica-neu.8a19678078a6b21c8057.ttf",
-    "static/media/LaBelleAurore.woff2": "/gherini-sound/static/media/LaBelleAurore.a83c1c58fd7e43972e4a.woff2",
-    "static/media/CoolveticaRg-Regular.woff2": "/gherini-sound/static/media/CoolveticaRg-Regular.7d1f3b1dd46ad6557a17.woff2",
-    "index.html": "/gherini-sound/index.html",
-    "main.2ddb3177.css.map": "/gherini-sound/static/css/main.2ddb3177.css.map",
-    "main.41ab8958.js.map": "/gherini-sound/static/js/main.41ab8958.js.map",
-    "787.75653d37.chunk.js.map": "/gherini-sound/static/js/787.75653d37.chunk.js.map"
+    "main.css": "/static/css/main.f79439b3.css",
+    "main.js": "/static/js/main.a20c046e.js",
+    "static/js/787.75653d37.chunk.js": "/static/js/787.75653d37.chunk.js",
+    "static/media/helvetica-neu.ttf": "/static/media/helvetica-neu.8a19678078a6b21c8057.ttf",
+    "static/media/LaBelleAurore.woff2": "/static/media/LaBelleAurore.a83c1c58fd7e43972e4a.woff2",
+    "static/media/CoolveticaRg-Regular.woff2": "/static/media/CoolveticaRg-Regular.7d1f3b1dd46ad6557a17.woff2",
+    "index.html": "/index.html",
+    "main.f79439b3.css.map": "/static/css/main.f79439b3.css.map",
+    "main.a20c046e.js.map": "/static/js/main.a20c046e.js.map",
+    "787.75653d37.chunk.js.map": "/static/js/787.75653d37.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.2ddb3177.css",
-    "static/js/main.41ab8958.js"
+    "static/css/main.f79439b3.css",
+    "static/js/main.a20c046e.js"
   ]
 }
